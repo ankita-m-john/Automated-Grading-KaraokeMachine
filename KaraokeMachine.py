@@ -666,7 +666,7 @@ def testFunction():
 
 
 def main():
-    testFunction()
+	testFunction()
 	run(1000, 700)
 
 if __name__ == '__main__':
